@@ -1,0 +1,19 @@
+{
+  "name": "tinacms-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexander Koltun <alexander.koltun@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "gatsby": "^2.29.3",
+    "gatsby-plugin-create-client-paths": "^2.7.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1",
+    "tinacms": "^0.34.0"
+  },
+  "scripts": {
+    "dev": "gatsby develop"
+  }
+}
